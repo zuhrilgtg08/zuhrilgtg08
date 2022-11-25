@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Ahmad Zuhril Fahrizal!
-i'm a freelancer web developer. I live in Surabaya , East Java, Indonesia. I'm fullstack Web Developer. And i'am also contributed to open source project 
+i'm a freelancer web developer. I live in Surabaya , East Java, Indonesia. I'm fullstack Web Developer. And i'am also contributed to open source project. Nice to meet You Guys !
 
 ## Current My activity
 - 💬 Ask me about anything, I am happy to help;
@@ -29,7 +29,7 @@ i'm a freelancer web developer. I live in Surabaya , East Java, Indonesia. I'm f
    <td width="50%" valign="top">
     <h3 align="center"> GitHub Status<h3>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=zuhrilgtg08&show_icons=true&theme=nightowl" />
+      <img src="https://github-readme-stats.vercel.app/api?username=zuhrilgtg08&show_icons=true&theme=nightowl&include_all_commits=true" />
     </p>
    </td>
    <td width="50%" valign="top">
