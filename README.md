@@ -2,14 +2,14 @@
 i'm a freelancer web developer. I live in Surabaya , East Java, Indonesia. I'm fullstack Web Developer. And i'am also contributed to open source project. Nice to meet You Guys !
 <hr>
 <br>
-<p align="center">
+<!-- <p align="center">
 <!-- <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/> -->
  
- <img alt="Eve - bunka" aria-hidden="true" class="TZM0T" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4075029b-32fb-4315-aee8-21fff0e6eccf/ddauurh-b08d670c-f8c4-41bc-8b0f-d5284a8651a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwNzUwMjliLTMyZmItNDMxNS1hZWU4LTIxZmZmMGU2ZWNjZlwvZGRhdXVyaC1iMDhkNjcwYy1mOGM0LTQxYmMtOGIwZi1kNTI4NGE4NjUxYTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m9O0tQiZXqK-GMRvQfO6oirndBiVnMlr9VRd665Eq-Y" srcset="" style="" height=250 width=350 />
+<!--  <img alt="Eve - bunka" aria-hidden="true" class="TZM0T" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4075029b-32fb-4315-aee8-21fff0e6eccf/ddauurh-b08d670c-f8c4-41bc-8b0f-d5284a8651a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwNzUwMjliLTMyZmItNDMxNS1hZWU4LTIxZmZmMGU2ZWNjZlwvZGRhdXVyaC1iMDhkNjcwYy1mOGM0LTQxYmMtOGIwZi1kNTI4NGE4NjUxYTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m9O0tQiZXqK-GMRvQfO6oirndBiVnMlr9VRd665Eq-Y" srcset="" style="" height=250 width=350 /> -->
 
  
  
- </p>
+<!--  </p> -->
  
 # Current My activity
 - 💬 Ask me about anything, I am happy to help;
