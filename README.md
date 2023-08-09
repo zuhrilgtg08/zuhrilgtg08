@@ -49,4 +49,8 @@ i'm a freelancer web developer. I live in Surabaya , East Java, Indonesia. I'm f
 </table>
     
 ## Contribution
-![Snake animation](https://github.com/zuhrilgtg08/zuhrilgtg08/blob/output/github-contribution-grid-snake.svg)
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
