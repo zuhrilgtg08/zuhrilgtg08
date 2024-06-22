@@ -3,10 +3,9 @@ i'm a freelancer web developer. I live in Surabaya , East Java, Indonesia. I'm f
 <hr>
 <br>
 <p align="center">
-<img alt="Coder GIF" height=250 width=350 src="https://64.media.tumblr.com/4fe798c5cd46cc3bae261b0a001319c9/00b143cda8fd3198-94/s540x810/3ff76166bfefd30ea27d62bb3fb95f7ffef29b6d.gifv"/>
- 
-<!--  <img alt="Eve - bunka" aria-hidden="true" class="TZM0T" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4075029b-32fb-4315-aee8-21fff0e6eccf/ddauurh-b08d670c-f8c4-41bc-8b0f-d5284a8651a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwNzUwMjliLTMyZmItNDMxNS1hZWU4LTIxZmZmMGU2ZWNjZlwvZGRhdXVyaC1iMDhkNjcwYy1mOGM0LTQxYmMtOGIwZi1kNTI4NGE4NjUxYTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m9O0tQiZXqK-GMRvQfO6oirndBiVnMlr9VRd665Eq-Y" srcset="" style="" height=250 width=350 /> --> 
- </p>
+<img alt="Coder GIF" height="" width="500" src="https://github.com/zuhrilgtg08/zuhrilgtg08/assets/83897073/e1bb6471-d2c5-4a71-8f7a-b0dc01a5cbd1.gifv"/>
+</p>
+
  
 # Current My activity
 - 💬 Ask me about anything, I am happy to help;
