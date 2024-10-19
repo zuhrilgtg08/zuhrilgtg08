@@ -3,8 +3,9 @@ i'm a freelancer web developer. I live in Surabaya , East Java, Indonesia. I'm f
 <hr>
 <br>
 <p align="center">
-<img alt="Coder GIF" height="150" width="500" src="https://64.media.tumblr.com/6d99b72021a1854e5cd31c8925cf3e1d/b148508426dfdbcf-7a/s1280x1920/975172380da71afeb6924d0d27654dc2a4f09063.gifv"/>
+<img alt="Coder GIF" height="300" width="1080" src="https://github.com/zuhrilgtg08/zuhrilgtg08/blob/e23b950aaa787501e2b2a7ae20f16461cbb04eb2/Neon%20and%20rain.gif"/>
 </p>
+
 
  
 # Current My activity
